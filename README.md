@@ -1,5 +1,8 @@
 # Madagascar-Resolution-Fix-PC
 
+![4k](https://github.com/user-attachments/assets/88df515c-2b83-49cb-87c8-0e61b4ab49bb)
+
+
 # Important Information
 This fix DOES NOT fix the Windows 11 start up issue and has no intention of doing so as this is a seriously complicated issue related to the Windows 11 OS design. If you wish to play the game then it is advised that you play it via a Windows 10 Virtual Machinea and pass through your graphics card to the virtual machine then use this fix.
 
