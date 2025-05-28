@@ -1,7 +1,7 @@
 # Madagascar-Resolution-Fix-PC
 
 # Important Information
-This fix DOES NOT fix the Windows 11 start up issue and has no intention of doing so as this is a seriously complicated issue related to the Windows 11 OS design. If you wish to play the game then it is advised that you play it via a Windows 10 Virtual Machine.
+This fix DOES NOT fix the Windows 11 start up issue and has no intention of doing so as this is a seriously complicated issue related to the Windows 11 OS design. If you wish to play the game then it is advised that you play it via a Windows 10 Virtual Machinea and pass through your graphics card to the virtual machine then use this fix.
 
 # Instructions
 Go to releases and download the latest MadagascarResolutionFix. zip, extract the contents into your game folder next to the Madagascar.exe file and you are good to go! You can edit the Resolution you wish to use in the Fix.ini file.
