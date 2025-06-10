@@ -10,7 +10,7 @@ download it from the link below and then extract it.
 
 you will need to go into the folder DSOAL -> DSOAL_r685 -> DSOAL + HRTF -> win32 -> copy the files alsoft.ini, dsoal-aldrv.dll and dsound.dll and paste them into the games directory and then play the game as normal with this fix for resolution; 
 
-note if the games not working a simple un install and re install and then trying the above step again and then putting this fix into it after theese steps should suffice.
+note if the games not working a simple un install and re install and then trying the above step again and then putting this fix into it after these steps should suffice.
 
 link to the fix for windows 11: 
 
