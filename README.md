@@ -5,9 +5,9 @@
 # Instructions
 Go to releases and download the latest MadagascarResolutionFix. zip, extract the contents into your game folder next to the Madagascar.exe file and you are good to go! You can edit the Resolution you wish to use in the Fix.ini file.
 
-Watch the official tutorial here - the tutorial is at 4 mins 49 seconds into the video. 
+Watch the official tutorial here: 
 Madagascar PC Resolution Widescreen Fix
-https://youtu.be/60bR3UctUXY
+[https://youtu.be/60bR3UctUXY](https://www.youtube.com/watch?v=Qsvvo1NgI5A)
 
 # Important Information
 This game is now playable on windows 11 thanks to the following wrapper linked below
