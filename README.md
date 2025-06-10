@@ -6,7 +6,7 @@
 Go to releases and download the latest MadagascarResolutionFix. zip, extract the contents into your game folder next to the Madagascar.exe file and you are good to go! You can edit the Resolution you wish to use in the Fix.ini file.
 
 Watch the official tutorial here: 
-Madagascar PC Resolution Widescreen Fix
+Madagascar PC Widescreen and windows 11 fix video:
 [https://youtu.be/60bR3UctUXY](https://www.youtube.com/watch?v=Qsvvo1NgI5A)
 
 # Important Information
