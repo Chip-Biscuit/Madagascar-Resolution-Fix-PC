@@ -5,6 +5,10 @@
 # Instructions
 Go to releases and download the latest MadagascarResolutionFix. zip, extract the contents into your game folder next to the Madagascar.exe file and you are good to go! You can edit the Resolution you wish to use in the Fix.ini file.
 
+Watch the official tutorial here - the tutorial is at 4 mins 49 seconds into the video. 
+Madagascar PC Resolution Widescreen Fix
+https://youtu.be/60bR3UctUXY
+
 # Important Information
 This game is now playable on windows 11 thanks to the following wrapper linked below
 
@@ -17,10 +21,6 @@ note if the games not working a simple un install and re install and then trying
 link to the fix for windows 11: 
 
 https://github.com/kcat/dsoal/releases
-
-Watch the official tutorial here - the tutorial is at 4 mins 49 seconds into the video. 
-Madagascar PC Resolution Widescreen Fix
-https://youtu.be/60bR3UctUXY
 
 # Resolution/Aspect Ratio
 The default for resolution is (1920x1080), which you can change to whatever resolution you wish to use in the Fix.ini file.
