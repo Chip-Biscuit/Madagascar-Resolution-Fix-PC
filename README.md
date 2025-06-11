@@ -11,9 +11,9 @@ Madagascar PC Widescreen and windows 11 fix video:
 
 # About the fix 
 Adds support for any custom resolutions with auto detection of the aspect ratio, plus full-screen/windowed modes, everything can be specified in Fix.ini.
-    Adds V-sync fix with ability to force V-sync mode
-    Adds ability to override FPS to any value up to 60 FPS.
-    Allows to force anti-aliasing mode
+-  Adds V-sync fix with ability to force V-sync mode
+-  Adds ability to override FPS to any value up to 60 FPS.
+-  Allows to force anti-aliasing mode
 These options can be specified in dx wrapper.ini
 
 # Important Information
