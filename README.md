@@ -9,6 +9,16 @@ Watch the official tutorial here:
 Madagascar PC Widescreen and windows 11 fix video:
 [https://youtu.be/60bR3UctUXY](https://www.youtube.com/watch?v=Qsvvo1NgI5A)
 
+# Official video guide
+
+Watch the official fix guide video here on how to install the game and use the fix
+
+<a href="https://www.youtube.com/watch?v=Qsvvo1NgI5A">
+  <img src="https://github.com/user-attachments/assets/378c495f-9959-4376-9933-019da3d6a33a" alt="madagascar" width="480" height="360">
+</a><br>
+
+###### <i>Click the image above to watch the video</i>
+
 # About the fix 
 -  Adds support for any custom resolutions with auto detection of the aspect ratio, these can be specified in Fix.ini.
 -  Adds V-sync fix with ability to force V-sync mode
