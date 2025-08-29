@@ -47,6 +47,12 @@ If you have any issues, with the fixes then please go to discord for help linked
 # Credits
 Credit to Elisha Riedlinger for the dxwrapper which is found here - https://github.com/elishacloud/dxwrapper 
 
-Brought to you by Fix Enhancers - https://fixenhancers.wixsite.com/fix-enhancers
-Team:
-Chip and JokerAlex21.
+Brought to you by Chip
+
+# Chip
+- founder
+- reverse engineer
+- programmer
+  
+<img width="250" height="500" alt="my logoo" src="https://github.com/user-attachments/assets/9bb13d3f-0734-4f1d-b68f-14114b13744a" />
+
