@@ -47,7 +47,7 @@ If you have any issues, with the fixes then please go to discord for help linked
 # Credits
 Credit to Elisha Riedlinger for the dxwrapper which is found here - https://github.com/elishacloud/dxwrapper 
 
-Brought to you by Chip
+# Brought to you by Chip
 
 # Chip
 - founder
