@@ -50,7 +50,6 @@ Credit to Elisha Riedlinger for the dxwrapper which is found here - https://gith
 # Brought to you by Chip
 
 # Chip
-- founder
 - reverse engineer
 - programmer
   
