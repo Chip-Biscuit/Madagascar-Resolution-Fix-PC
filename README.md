@@ -28,6 +28,8 @@ Watch the official fix guide video here on how to install the game and use the f
 These options can be specified in dx wrapper.ini
 
 # Important Information
+This fix is only targeted at the english version of the game so please keep this in mind.
+
 This game is now playable on windows 11 thanks to the following wrapper linked below
 
 download the latest release from the link below and then extract it.
