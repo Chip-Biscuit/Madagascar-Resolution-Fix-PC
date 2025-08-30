@@ -5,6 +5,21 @@
 # Instructions
 Go to releases and download the latest MadagascarResolutionFix. zip, extract the contents into your game folder next to the Madagascar.exe file and you are good to go! You can edit the Resolution you wish to use in the Fix.ini file.
 
+# Important Information
+This fix is only targeted at the english version of the game so please keep this in mind.
+
+This game is now playable on windows 11 thanks to the following wrapper linked below
+
+download the latest release from the link below and then extract it.
+
+you will need to go into the folder DSOAL -> DSOAL_r685 -> DSOAL + HRTF -> win32 -> copy the files alsoft.ini, dsoal-aldrv.dll and dsound.dll and paste them into the games directory and then play the game as normal with this fix for resolution; 
+
+note if the games not working a simple un install and re install and then trying the above step again and then putting this fix into it after these steps should suffice.
+
+link to the fix for windows 11: 
+
+https://github.com/kcat/dsoal/releases
+
 Watch the official tutorial here: 
 Madagascar PC Widescreen and windows 11 fix video:
 [https://youtu.be/60bR3UctUXY](https://www.youtube.com/watch?v=Qsvvo1NgI5A)
@@ -26,21 +41,6 @@ Watch the official fix guide video here on how to install the game and use the f
 -  Allows to force anti-aliasing mode
 -  Adds full-screen/windowed modes
 These options can be specified in dx wrapper.ini
-
-# Important Information
-This fix is only targeted at the english version of the game so please keep this in mind.
-
-This game is now playable on windows 11 thanks to the following wrapper linked below
-
-download the latest release from the link below and then extract it.
-
-you will need to go into the folder DSOAL -> DSOAL_r685 -> DSOAL + HRTF -> win32 -> copy the files alsoft.ini, dsoal-aldrv.dll and dsound.dll and paste them into the games directory and then play the game as normal with this fix for resolution; 
-
-note if the games not working a simple un install and re install and then trying the above step again and then putting this fix into it after these steps should suffice.
-
-link to the fix for windows 11: 
-
-https://github.com/kcat/dsoal/releases
 
 # Resolution/Aspect Ratio
 The default for resolution is (1920x1080), which you can change to whatever resolution you wish to use in the Fix.ini file.
