@@ -1,3 +1,11 @@
+<div align="center">
+
+# 🎮 Game Specific Patches  
+### Created & Maintained by **[Chip-Biscuit](https://chip-biscuit.github.io/)**
+Reverse Engineering • Programming • Patching • Game Improvements  
+
+</div>
+
 # Madagascar-Resolution-Fix-PC
 
 ![4k](https://github.com/user-attachments/assets/88df515c-2b83-49cb-87c8-0e61b4ab49bb)
