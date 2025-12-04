@@ -30,7 +30,7 @@ note if the games not working a simple un install and re install and then trying
 
 link to the fix for windows 11: 
 
-https://github.com/kcat/dsoal/releases
+[https://github.com/kcat/dsoal/releases](https://github.com/kcat/dsoal/releases/tag/latest-master)
 
 Watch the official tutorial here: 
 Madagascar PC Widescreen and windows 11 fix video:
