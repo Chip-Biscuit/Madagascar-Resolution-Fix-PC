@@ -20,6 +20,9 @@ Reverse Engineering • Programming • Patching • Game Improvements • DLL C
 # Instructions
 Go to releases and download the latest MadagascarResolutionFix. zip, extract the contents into your game folder next to the Madagascar.exe file and you are good to go! You can edit the Resolution you wish to use in the Fix.ini file.
 
+<div align="center">
+![download]https://github.com/Chip-Biscuit/Madagascar-Resolution-Fix-PC/releases/tag/madagascar-resolution-fix)
+>/div>
 # Important Information
 This fix is only targeted at the english version of the game so please keep this in mind.
 
