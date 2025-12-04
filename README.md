@@ -8,8 +8,9 @@
 
 Reverse Engineering • Programming • Patching • Game Improvements • DLL Creation
 
-[![Downloads](https://img.shields.io/github/downloads/Chip-Biscuit/Madagascar-Resolution-Fix-PC/total?label=Download%20Fix)](https://github.com/Chip-Biscuit/Madagascar-Resolution-Fix-PC/releases/tag/madagascar-resolution-fix)
+[![Downloads](https://img.shields.io/github/downloads/Chip-Biscuit/Madagascar-Resolution-Fix-PC/total?label=Total%20Downloads)](https://github.com/Chip-Biscuit/Madagascar-Resolution-Fix-PC/releases/tag/madagascar-resolution-fix)
 
+<sub>click the Total Downloads button above to take you to the releases page and download the zip at the bottom</sub>
 
 </div>
 
