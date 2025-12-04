@@ -6,7 +6,10 @@
 
 [![Chip-Biscuit Website](https://img.shields.io/badge/Chip--Biscuit-Website-blue?style=for-the-badge)](https://chip-biscuit.github.io/)
 
-Reverse Engineering • Programming • Patching • Game Improvements • DLL Creation 
+Reverse Engineering • Programming • Patching • Game Improvements • DLL Creation
+
+![Downloads](https://img.shields.io/github/downloads/Chip-Biscuit/Madagascar-Resolution-Fix-PC/total)
+
 
 </div>
 
